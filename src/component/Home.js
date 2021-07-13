@@ -135,7 +135,7 @@ function Home() {
             <p className="text-center text-secondry ">NewRecovered</p>
         </div>
         <div className="text-wrapper hid">
-            <p className="text-center text-secondry hide">NewDeaths</p>
+            <p className="text-center text-secondry">NewDeaths</p>
         </div>
         </div> 
         </div>
